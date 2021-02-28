@@ -18,6 +18,7 @@ Or install it directly to your computer if you're using a jupyter notebook
 
 ## Citation
 If you use this code in your work, please cite us as follows:
+
 Oyewusi, W.F., Adekanmbi, O., & Akinsande, O. (2020). Semantic Enrichment of Nigerian Pidgin English for Contextual Sentiment Classification. ArXiv, abs/2003.12450.
 
 ## Contact
