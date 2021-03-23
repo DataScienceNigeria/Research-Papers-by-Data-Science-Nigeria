@@ -15,7 +15,7 @@ Result:
 ![sample afrirazer2](https://user-images.githubusercontent.com/55222856/112114170-06d81580-8bb8-11eb-8f14-41e94d577fcb.jpg)
 
 ## Citation
-If you make use of this work, please cite us as follows:
+If you make use of this [model](https://github.com/sharonibejih/Research-Papers-by-Data-Science-Nigeria/blob/develop/AFRIRAZER/afrirazer.h5) in your work, please cite us as follows:
 
 Oyewusi, Wuraola & Onilude, Gbemileke & Adekanmbi, Olubayo & Akinsande, Olalekan. (2020). AFRIRAZER: A Deep Learning Model to remove Background and Skin from Traditional African Fashion Images.
 
