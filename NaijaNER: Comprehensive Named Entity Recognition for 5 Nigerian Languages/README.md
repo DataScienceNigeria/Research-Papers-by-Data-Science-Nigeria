@@ -11,11 +11,11 @@ The NaijaNER Web App folder contains:
 - `HausaNER`,`IgboNER`,`NGNEnglishNER`,`PidginNER`,`YorubaNER` Model folders contains NER models for each language and 
 - `NaijaNER` folder, a combined NER model for all 5 languages.
 
-- `HausaNER` model identifies Hausa named entities in context, with `F1score of 44.84%` and `52.59% Precision`
-- `IgboNER` model identifies Igbo named entities in context, with `F1score of 35.48%` and `47.18% Precision`
-- `NGNEnglishNER` model identifies Nigerian English named entities in context, with `F1score of 54.49%` and `55.48% Precision`
-- `PidginNER` model identifies Pidgin named entities in context, with `F1score of 67.13%` and `70.29% Precision`
-- `NaijaNER` model is trained on the combination of Nigerian English, Hausa, pidgin, Igbo, Yoruba languages. `F1score of 53.75%` and `62.43% Precision`
+  - `HausaNER` model identifies Hausa named entities in context, with `F1score of 44.84%` and `52.59% Precision`
+  - `IgboNER` model identifies Igbo named entities in context, with `F1score of 35.48%` and `47.18% Precision`
+  - `NGNEnglishNER` model identifies Nigerian English named entities in context, with `F1score of 54.49%` and `55.48% Precision`
+  - `PidginNER` model identifies Pidgin named entities in context, with `F1score of 67.13%` and `70.29% Precision`
+  - `NaijaNER` model is trained on the combination of Nigerian English, Hausa, pidgin, Igbo, Yoruba languages. `F1score of 53.75%` and `62.43% Precision`
 
 
 
