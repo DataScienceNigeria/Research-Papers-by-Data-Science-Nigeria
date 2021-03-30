@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run ner_app.py --server.maxUploadSize=30
