@@ -3,6 +3,11 @@ NaijaNER streamlit app deployed on Heroku
 
 Web App link: https://nigner.herokuapp.com/
 
+![streamlit-ner_app-2021-03-31-11-03-77](https://user-images.githubusercontent.com/59209191/113148629-f82dd600-9229-11eb-90f7-1ef6ac872b84.gif)
+
+
+
+
 The NaijaNER Web App folder contains:
 - `ner_app.py` file which is the source code for the Named Entity Recognition App using Streamlit
 - `Procfile` which contains the process types in the app, used to deploy to Heroku
