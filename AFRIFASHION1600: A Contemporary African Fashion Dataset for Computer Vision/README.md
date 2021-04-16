@@ -16,7 +16,7 @@ Though a small  dataset,  it  showed  encouraging  metrics  when  pre-trained de
 While `AFRIFASHION1600` is a small dataset of only 1600 imagesin 8 distinct fashion item classes, We hope it can help demystify computer vision use cases for upcoming communities of Africans who are learning all about Artificial Intelligence and as a foundation that other interesting projects can be built one. 
 
 
-`AFRIFASHION` was curated from openly available images online and is open-sourced but all images belong to the original copyright owners.
+`AFRIFASHION1600` was curated from openly available images online and is open-sourced but all images belong to the original copyright owners.
 
 ### Get the data
 Clone this GitHub repository; the dataset appears as `data/AFRIFASHION1600.zip`
