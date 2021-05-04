@@ -69,7 +69,7 @@ def get_result(doc):
     st.markdown("<p style='font-size:12px;'>See GLOSSARY for entity description.</p>", unsafe_allow_html=True)
 
 
-@st.cache(suppress_st_warning=True)
+#@st.cache(suppress_st_warning=True)
 def get_about_page():
     df1 =["PERSON","NORP","FAC","ORG","GPE","LOC","PRODUCT","DATE","TIME","PERCENT","MONEY","QUANTITY","ORDINAL","CARDINAL","EVENT","WORK_OF_ART","LAW","LANGUAGE"]
     df2 =["These are proper names of people, including fictional people, first names, last names, individual or family names, unique nicknames.",
