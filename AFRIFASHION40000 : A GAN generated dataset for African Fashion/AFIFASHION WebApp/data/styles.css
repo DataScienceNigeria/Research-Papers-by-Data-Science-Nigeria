@@ -1,0 +1,310 @@
+﻿.ax_default {
+  font-family:"Arial", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+.image {
+}
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.link_button {
+  color:#1E98D7;
+}
+.heading_1 {
+  font-family:"Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:"Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:"Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.heading_4 {
+  font-family:"Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.heading_5 {
+  font-family:"Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+.heading_6 {
+  font-family:"Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.paragraph {
+  text-align:left;
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
+.c_btn_primary {
+  font-family:"IBM Plex Sans ", "IBM Plex Sans", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:0.16px;
+  color:#FFFFFF;
+  text-align:right;
+  line-height:18px;
+}
+.c_btn_secondary {
+  font-family:"IBM Plex Sans ", "IBM Plex Sans", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:0.16px;
+  color:#FFFFFF;
+  text-align:right;
+  line-height:18px;
+}
+.c_content_switcher_left {
+  font-family:"IBM Plex Sans ", "IBM Plex Sans", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:0.16px;
+  color:#393939;
+  text-align:left;
+  line-height:18px;
+}
+.c_content_switcher_mid {
+  font-family:"IBM Plex Sans ", "IBM Plex Sans", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:0.16px;
+  color:#393939;
+  text-align:left;
+  line-height:18px;
+}
+.c_content_switcher_right {
+  font-family:"IBM Plex Sans ", "IBM Plex Sans", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:0.16px;
+  color:#393939;
+  text-align:left;
+  line-height:18px;
+}
+.c_content_switcher__selected {
+  color:#FFFFFF;
+}
+.c_image {
+}
+.c_overflow_option {
+  font-family:"IBM Plex Sans ", "IBM Plex Sans", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:0.16px;
+  color:#161616;
+  text-align:left;
+  line-height:18px;
+}
+.c_overflow_danger__hover {
+  color:#FFFFFF;
+}
+.c_placeholder {
+  font-family:"IBM Plex Sans ", "IBM Plex Sans", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#525252;
+  text-align:center;
+}
+.c_shadow_0_2px_6px_0__0_3_ {
+}
+.c_spacer {
+  font-family:"IBM Plex Sans ", "IBM Plex Sans", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:0.16px;
+  color:#161616;
+  text-align:center;
+  line-height:18px;
+}
+.c_tab {
+  font-family:"IBM Plex Sans ", "IBM Plex Sans", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:0.16px;
+  color:#393939;
+  text-align:left;
+  line-height:18px;
+}
+.c_tab__disabled {
+  color:#CACACA;
+}
+.c_tab__hover {
+  color:#161616;
+}
+.c_tab__selected {
+  font-family:"IBM Plex Sans ", "IBM Plex Sans", sans-serif;
+  font-weight:650;
+  font-style:normal;
+  color:#161616;
+}
+.c_text_area {
+  font-family:"IBM Plex Sans ", "IBM Plex Sans", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#161616;
+  text-align:left;
+  line-height:normal;
+}
+.c_text_input {
+  font-family:"IBM Plex Sans ", "IBM Plex Sans", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#161616;
+  text-align:left;
+  line-height:normal;
+}
+.c_text_input__disabled {
+  color:#C6C6C6;
+}
+.c_text_input__focused {
+}
+.c_toggle_button_off {
+}
+.c_toggle_button_on {
+}
+.c_toggle_input_off {
+}
+.c_toggle_input_on {
+}
+.c_typo__body-short-01 {
+  font-family:"IBM Plex Sans ", "IBM Plex Sans", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:0.16px;
+  color:#161616;
+  text-align:left;
+  line-height:18px;
+}
+.c_typo__body-long-01 {
+  font-family:"IBM Plex Sans ", "IBM Plex Sans", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:0.16px;
+  color:#161616;
+  text-align:left;
+  line-height:20px;
+}
+.c_typo__heading-01 {
+  font-family:"IBM Plex Sans ", "IBM Plex Sans", sans-serif;
+  font-weight:650;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:0.16px;
+  color:#161616;
+  text-align:left;
+  line-height:18px;
+}
+.c_typo__helper-text-01 {
+  font-family:"IBM Plex Sans ", "IBM Plex Sans", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  letter-spacing:0.32px;
+  color:#6F6F6F;
+  text-align:left;
+  line-height:16px;
+}
+.c_typo__label-01 {
+  font-family:"IBM Plex Sans ", "IBM Plex Sans", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  letter-spacing:0.32px;
+  color:#393939;
+  text-align:left;
+  line-height:16px;
+}
+.c__active-primary {
+  color:#FFFFFF;
+}
+.c__active-secondary {
+  color:#FFFFFF;
+}
+.c__disabled-01 {
+  color:#C6C6C6;
+}
+.c__disabled-02 {
+  color:#8D8D8D;
+}
+.c__disabled-02_text {
+  color:#C6C6C6;
+}
+.c__hover-primary {
+  color:#FFFFFF;
+}
+.c__hover-row {
+  color:#161616;
+}
+.c__hover-secondary {
+}
+.c__hover-ui {
+  color:#161616;
+}
+.c__icon-01 {
+}
+.c__text-03 {
+  color:#A8A8A8;
+}
+.c__ui-02___ui-03_line {
+}
+.c__ui-03 {
+}
+.c__ui-03_line {
+}
+.box_3 {
+}
+.box_2 {
+}
+.shape {
+}
+.icon {
+}
+.line {
+}
+textarea, select, input, button { outline: none; }
