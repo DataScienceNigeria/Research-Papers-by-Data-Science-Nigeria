@@ -1,5 +1,7 @@
-We present AFRIGAN, a model for African fashion style using GAN.The model generated Images in different fashion 
-styles . Our AFRIGAN can be used for any  application in machine learning for Africa.
-Indeed GAN is very useful in fashion , not only for popular clothing but also for African styles.
+# AFRIGAN: African Fashion Style Generator using Generative Adversarial Networks(GANs) (paper)
 
-Note:This paper is under review for Machine Learning for creativity and design  workshop,NeurIPS 2021
+## Abstract
+
+Afrocentric fashion  images suitable for machine learning tasks are not well represented in open datasets.In this work we present AFRIGAN, a generative adversarial model for contemporary african fashion images. AFRIGAN can be leveraged as a tool for realistic image data synthesis, design iteration and experimentation for contemporary African fashion styles. This model is openly available [here](https://drive.google.com/uc?id=1-H92c9YC6AOWEtAuXnxnF5n3XeQnXf9L).
+
+*Note:This paper is under review for Machine Learning for creativity and design  workshop,NeurIPS 2021*
