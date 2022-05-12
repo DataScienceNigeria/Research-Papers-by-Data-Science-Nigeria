@@ -1,4 +1,4 @@
-# COVNLP: A Multisource COVID-19 dataset for Natural Language Processing
+# COVNLP: A Multisource COVID-19 dataset for Natural Language Processing ([Paper](https://www.researchgate.net/publication/360469867_COVNLP_A_Multisource_COVID-19_dataset_for_Natural_Language_Processing#fullTextFileContent))
 
 This Paper is currently under review at the International Workshop on Social Impact of AI for Africa (SIAIA-22) at the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-22)
 
