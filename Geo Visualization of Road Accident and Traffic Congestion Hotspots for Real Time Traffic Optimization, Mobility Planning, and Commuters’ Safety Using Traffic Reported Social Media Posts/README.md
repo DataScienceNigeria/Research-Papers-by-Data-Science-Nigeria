@@ -4,6 +4,4 @@ Using this approach, I was able to identify, both historically and in real-time,
 With this analysis, government agencies can develop traffic management strategies that prioritize safety and efficiency, such as rerouting traffic away from congested areas or implementing safety measures at accident-prone or traffic robbery-prone locations. Furthermore, traffic-free routes can be provided in real-time to commuters based on their location. 
 This work has the potential to reduce traffic congestion and improve road safety, leading to economic and health benefits for Lagos residents. The results of this research not only have practical implications for the city but can also be extended to other urban areas that have traffic agencies and are also facing similar challenges.
 
-![image](https://github.com/DataScienceNigeria/Research-Papers-by-Data-Science-Nigeria/assets/61704062/1446c06c-c365-4f4a-8013-163a9b107931)
-![image](https://github.com/DataScienceNigeria/Research-Papers-by-Data-Science-Nigeria/assets/61704062/f5940a95-f09e-4e34-9e54-ddb8db86cdd5)
 ![image](https://github.com/DataScienceNigeria/Research-Papers-by-Data-Science-Nigeria/assets/61704062/f1bea292-6c03-4823-a1d6-db108820b3a8)
