@@ -1,0 +1,182 @@
+,date,content,sentiment,traffic_class,place
+0,2023-02-09 07:12:43+00:00,"Acme junction inward Agidingbi, Cadbury junction, Mobil junction, daily times down to Coca-cola junction is good to go.     ",Positive,free flow,"['Acme junction', 'Agidingbi', 'Cadbury junction', 'Mobil junction']"
+1,2023-02-09 07:18:48+00:00,"Approaching Lekki conservation centre is busy towards Chevron, Igbo efon and Jakande due to morning rush.",Positive,heavy traffic,"['Lekki conservation', 'Chevron']"
+2,2023-02-09 07:18:49+00:00,Connecting Marwa from Ikate is good Marwa back to Ajah proper is good,Positive,free flow,"['Marwa', 'Ikate', 'Marwa']"
+3,2023-02-09 07:29:07+00:00,Cele inward Cele/ijesha fly over bridge is busy but moving steadily due to construction work at the other side of Cele,Positive,heavy traffic,"['Cele inward', 'Cele/ijesha fly over bridge']"
+4,2023-02-09 07:29:08+00:00,Movement from Cele inward Ago roundabout is busy due to alternation at the junction.,Positive,heavy traffic,"['Cele', 'Ago roundabout']"
+5,2023-02-09 07:29:08+00:00,Vehicular  movement from Ago roundabout inward Apata enroute Transformer to Ilasa is also busy due to early morning rush.,Positive,heavy traffic,"['Ago roundabout', 'Apata']"
+6,2023-02-09 07:29:08+00:00,Movement from Ago roundabout inward pako/chemist is good,Positive,free flow,['Ago roundabout']
+7,2023-02-09 07:29:08+00:00,"Vehicular movement from Oke-afa  enroute Pako, Kogberegbe, Ire akari junction, Ishaga, College inward Aye is busy  due to alternation at College/Aye junction  and early morning rush",Positive,heavy traffic,"['Oke-afa', 'Pako', 'Kogberegbe', 'Ishaga', 'College/Aye junction']"
+8,2023-02-09 07:29:09+00:00,"Connecting Aye inward limca, Laspotech, Daleko is good to go",Positive,free flow,['Aye']
+9,2023-02-09 07:29:09+00:00,"Vehicular movement from 5star inward Iyana isolo enroute Ilasa, Cele inward Ijesha is also good on  the main carriage way and the service lane",Positive,free flow,"['5star', 'Iyana isolo', 'Ilasa']"
+10,2023-02-09 07:52:10+00:00,Abule egba inward Charity is free Charity to Abattoir enroute Emmanuel is gtg,Positive,free flow,"['Abule egba', 'Charity', 'Abattoir']"
+11,2023-02-09 07:52:11+00:00,Oke koto inward Sofunde down to agbotikuyo enroute Alagba  is good,Positive,free flow,"['Oke koto', 'Sofunde']"
+12,2023-02-09 07:52:11+00:00,return journey frm Alagba inw Oke koto is gd,Positive,free flow,['Oke koto']
+13,2023-02-09 07:52:11+00:00,Sofunde inwd oke koto is slow,Negative,heavy traffic,"['Sofunde', 'oke koto']"
+14,2023-02-09 07:52:11+00:00,Oke koto inward Oniwaya is good to go likewise the return journey back to Oke koto,Positive,free flow,"['Oke koto', 'Oniwaya', 'Oke koto']"
+15,2023-02-09 07:52:11+00:00,Oke koto to Oba ogunji inward Odo eran is slow,Negative,heavy traffic,['Oke koto']
+16,2023-02-09 07:52:12+00:00,Odo eran inward Marketing is good to go likewise return journey,Positive,free flow,['Odo eran']
+17,2023-02-09 07:52:12+00:00,Marketing inward Stadium to Maternity inward Balogun Pencinema is good to go.,Positive,free flow,"['Marketing', 'Stadium', 'Maternity', 'Balogun Pencinema']"
+18,2023-02-09 07:52:12+00:00,Odo eran to Wemco inw Metal box is slow,Negative,heavy traffic,"['Odo eran', 'Wemco']"
+19,2023-02-09 07:52:13+00:00,Marketing inward Akilo to Ascon junction inward Acme down to Fumec is good to go,Positive,free flow,"['Akilo', 'Ascon junction']"
+20,2023-02-09 07:52:13+00:00,Return journey from Fumec to Metal box is good to go,Positive,free flow,['Fumec']
+21,2023-02-09 07:52:13+00:00,Wemco junction down to Odo eran  Mobile Asade inw Akani Doherty is slow at the moment.,Negative,heavy traffic,"['Wemco junction', 'Mobile Asade', 'Akani Doherty']"
+22,2023-02-09 07:52:13+00:00,Akani Doherty to Dangote U-turn is steady good likewise the return journey.,Positive,free flow,['Akani Doherty']
+23,2023-02-09 07:52:13+00:00,Guinness junction inward Mangoro Asade is good,Positive,free flow,['Guinness junction']
+24,2023-02-09 07:59:50+00:00,Vehicular movement from Dolphin inward Osbourne road is on the high side while manual control is in progress at foreshore intersection.,Positive,heavy traffic,['Dolphin']
+25,2023-02-09 07:59:50+00:00,"Alfred Rewane stretch is  busy due to alternation at Bayo Kuku, Golden gate and NNPC intersections",Positive,heavy traffic,"['Alfred Rewane', 'Bayo Kuku']"
+26,2023-02-09 07:59:51+00:00,Awolowo road  Movement from Okotie Eboh inward Falomo roundabout is busy due to early morning rush.,Positive,heavy traffic,"['Okotie Eboh', 'Falomo roundabout']"
+27,2023-02-09 07:59:52+00:00,Obalende Ubridge is busy due to early morning rush coupled with commercial activities.  ,Positive,heavy traffic,['Obalende Ubridge']
+28,2023-02-09 09:43:16+00:00,A broken down loaded Tanker on McWen bridge inward Bonny Camp with effect on traffic movement for now. ,Negative,breakdown,"['Tanker', 'McWen bridge', 'Bonny Camp']"
+29,2023-02-09 10:04:03+00:00,A broken down Truck at Orile on the service lane inward Mile2 with no effect on traffic movement.,Negative,breakdown,['Orile']
+30,2023-02-09 10:06:34+00:00,The earlier reported broken down loaded Tanker on McWen Bridge inw Bonny Camp has been moved off the road. ,Negative,breakdown,"['Tanker', 'McWen Bridge', 'Bonny Camp']"
+32,2023-02-09 12:21:38+00:00,Busy movement from Otedola to Kara,Positive,heavy traffic,"['Otedola', 'Kara']"
+33,2023-02-09 12:21:38+00:00,Return journey from Kara back to Otedola is good.,Positive,free flow,['Kara']
+34,2023-02-09 12:21:39+00:00,Return journey from Odoeran back to Omole is good aside alternation. ,Positive,free flow,['Odoeran']
+35,2023-02-09 12:21:39+00:00,Slight delays approaching Hotel b/stop due to fuel queue at NNPC Filling station.,Negative,mild traffic,['NNPC Filling station.']
+36,2023-02-09 12:21:40+00:00,Slight delay at VIS corridor due to massive turning and fuel queues,Negative,mild traffic,[]
+37,2023-02-09 12:21:40+00:00,Better movement inward Isheri Olowora.,Positive,mild traffic,[]
+38,2023-02-09 14:07:38+00:00,"Ojota bridge inw China Town, Alapere, Ogudu, Ifako, Iyana Oworo all in good shape.",Positive,free flow,"['Ojota bridge', 'China Town', 'Alapere', 'Ogudu', 'Ifako']"
+39,2023-02-09 14:07:39+00:00,"It is also good ascending 3MB through Adeniji,  Olowu, Simpson bridge, Obalende bridge inw Onikan bridge down to CMS bridge is good.",Positive,free flow,"['Adeniji', 'Simpson bridge', 'Obalende bridge']"
+40,2023-02-09 14:07:39+00:00,The return journey is encouraging but slow approaching Ogudu down to NNPC due to fuel queue,Negative,heavy traffic,"['Ogudu', 'NNPC']"
+41,2023-02-09 14:07:40+00:00,slow approaching Tollgate turning due to massive turning of motorists.,Negative,heavy traffic,[]
+42,2023-02-09 14:07:40+00:00,Good movement immediately after Toll gate turning inw Otedola Bridge enroute New Garage.,Positive,free flow,['New Garage.']
+43,2023-02-09 14:46:38+00:00,The stretch of Osolo Way from Aiye to Mechanic village link bridge is good.,Positive,free flow,['Osolo Way']
+44,2023-02-09 14:46:40+00:00,DHL to 5 star enroute Aswani Road by Emzor to connect Osolo Way by Aswani junction is good.,Positive,free flow,"['DHL', 'Osolo Way', 'Aswani junction']"
+45,2023-02-09 14:46:41+00:00,Robinson Gbagi down to Ajibade Babatola is slow down to navigate Canoe proper.,Negative,heavy traffic,['Robinson Gbagi']
+46,2023-02-09 15:35:00+00:00,High influx and busy from PWD inward Airport turning towards Airport bus stop.,Positive,heavy traffic,['PWD']
+47,2023-02-09 15:35:00+00:00,"Meanwhile movement from Airport bus stop inward National, Ikeja Along towards Ajayi Farm is also busy.",Positive,heavy traffic,"['Airport', 'National', 'Ikeja']"
+48,2023-02-09 15:35:00+00:00,Ajayi Farm inward Ile Zik enroute Mangoro and Cement is good towards Dopemu under bridge.,Positive,free flow,"['Ajayi Farm', 'Ile Zik']"
+49,2023-02-09 15:44:51+00:00,"Good movement from NITEL inward Total for now, return journey from Total to Abattoir is good.",Positive,free flow,['NITEL']
+50,2023-02-09 15:44:52+00:00,Total inward Okekoto is good,Positive,free flow,['Total']
+51,2023-02-09 15:44:52+00:00,The return journey from Okekoto inward Total is also good.,Positive,free flow,['Okekoto']
+52,2023-02-09 15:44:52+00:00,Okekoto inward Shofunde is good likewise the return journey. Okekoto inward and outward Oniwaya is good.,Positive,free flow,"['Okekoto', 'Shofunde']"
+53,2023-02-09 15:44:53+00:00,Dopemu inward Oniwaya is good. Capitol Road connecting National Mangoro Ashade is good.,Positive,free flow,"['Dopemu', 'Capitol Road']"
+54,2023-02-09 15:44:53+00:00,Akanni Doherthy Road connecting Guinness is good; the return journey is also good.,Positive,free flow,['Akanni Doherthy Road']
+55,2023-02-09 15:44:55+00:00,Mobil Ashade inward Akilo Road connecting Marketing is good. ,Positive,free flow,['Mobil Ashade']
+56,2023-02-09 15:46:22+00:00,The return journey from Oba Ogunji inward Odo Eran is also good. ,Positive,free flow,"['Oba Ogunji', 'Odo Eran']"
+57,2023-02-09 16:34:29+00:00,Vehicular movement from Idiroko through the service lane inw Maryland intersection is busy due to traffic light delay. ,Positive,heavy traffic,['Idiroko']
+58,2023-02-09 16:34:29+00:00,slow towards Leventis down to Total filling station due to fuel queue.,Negative,heavy traffic,[]
+60,2023-02-10 06:59:05+00:00,Slow movement approaching Omole Gate due to high influx in and out Omole Estate.,Negative,heavy traffic,['Omole Estate.']
+61,2023-02-10 07:24:50+00:00,"A truck has broken down with spring related problem at Kola, inwards Alakuko.",Negative,breakdown,['Kola']
+64,2023-02-09 07:59:52+00:00,Obalende Ubridge is busy due to early morning rush coupled with commercial activities,Positive,heavy traffic,['Obalende Ubridge']
+65,2023-02-09 09:43:16+00:00,A broken down loaded Tanker on McWen bridge inward Bonny Camp with effect on traffic movement for now.,Negative,breakdown,"['Tanker', 'McWen bridge', 'Bonny Camp']"
+66,2023-02-09 10:04:03+00:00,A broken down Truck at Orile on the service lane inward Mile2 with no effect on traffic movement. ,Negative,breakdown,['Orile']
+67,2023-02-09 10:06:34+00:00,The earlier reported broken down loaded Tanker on McWen Bridge inw Bonny Camp has been moved off the road.,Negative,breakdown,"['Tanker', 'McWen Bridge', 'Bonny Camp']"
+68,2023-02-09 12:21:39+00:00,Return journey from Odoeran back to Omole is good aside alternation.,Positive,free flow,['Odoeran']
+69,2023-02-09 12:21:39+00:00,Slight delays approaching Hotel b/stop due to fuel queue at NNPC Filling station.,Negative,mild traffic,['NNPC Filling station.']
+70,2023-02-09 14:07:39+00:00,"It is also good ascending 3MB through Adeniji,  Olowu, Simpson bridge, Obalende bridge inw Onikan bridge down to CMS bridge is good.",Positive,free flow,"['Adeniji', 'Simpson bridge', 'Obalende bridge']"
+71,2023-02-09 14:46:38+00:00,The stretch of Osolo Way from Aiye to Mechanic village link bridge is good.,Positive,free flow,['Osolo Way']
+72,2023-02-09 14:46:38+00:00,Seriki Abass to Asa Afariogun intersection where alternations is on is good.,Positive,free flow,['Seriki Abass']
+73,2023-02-09 14:46:41+00:00,Robinson Gbagi down to Ajibade Babatola is slow down to navigate Canoe proper.,Negative,heavy traffic,['Robinson Gbagi']
+74,2023-02-09 14:46:41+00:00,Mubostic inward Canoe to Chivita to link Lukman Atobajeun down to Swimming pool junction is slow.,Negative,heavy traffic,"['Mubostic', 'Canoe', 'Chivita']"
+75,2023-02-09 14:46:41+00:00,"Meanwhile movement from Airport bus stop inward National, Ikeja Along towards Ajayi Farm is also busy.",Positive,heavy traffic,"['Airport', 'National', 'Ikeja']"
+76,2023-02-09 15:35:00+00:00,Ajayi Farm inward Ile Zik enroute Mangoro and Cement is good towards Dopemu under bridge.,Positive,free flow,"['Ajayi Farm', 'Ile Zik']"
+77,2023-02-09 15:44:51+00:00,"Good movement from NITEL inward Total for now, return journey from Total to Abattoir is good.",Positive,free flow,['NITEL']
+78,2023-02-09 17:32:06+00:00,Movement inw Ishaga r'abt from Fagba intersection is good to Balogun bstop,Positive,free flow,"['Ishaga', 'Fagba intersection']"
+79,2023-02-09 17:32:07+00:00,The return journey from Ishaga r'abt to Fagba intersection is good aside alternation.  ,Positive,free flow,[]
+80,2023-02-09 17:37:35+00:00,Busy movement from Otedola inward Kara due to road demarcation at Kara- Opic corridor by Julius berger constructions.,Negative,heavy traffic,"['Otedola', 'Kara', 'Kara- Opic']"
+81,2023-02-09 14:46:40+00:00,DHL to 5 star enroute Aswani Road by Emzor to connect Osolo Way by Aswani junction is good.,Positive,free flow,"['DHL', 'Osolo Way', 'Aswani junction']"
+82,2023-02-09 14:46:41+00:00,Robinson Gbagi down to Ajibade Babatola is slow down to navigate Canoe proper.,Negative,heavy traffic,['Robinson Gbagi']
+84,2023-02-09 15:44:55+00:00,Mobil Ashade inward Akilo Road connecting Marketing is good.,Positive,free flow,['Mobil Ashade']
+85,2023-02-09 16:38:03+00:00,Vehicular movement from Iyana School to Kosofe down to Mile 12 is good. ,Positive,free flow,"['Iyana School', 'Kosofe', 'Mile 12']"
+87,2023-02-09 17:37:36+00:00,Moving inward Omole gate is slightly slow. Approaching Omole junction is slow due to alternation. ,Negative,heavy traffic,['Omole gate']
+88,2023-02-09 17:37:37+00:00,Area G inward Ogba proper is slow due to bstop activities and influx into Thomas Salako. ,Negative,heavy traffic,['Area G']
+89,2023-02-09 17:38:05+00:00,Grammar School inward VIS is a slow moving traffic due to massive turning at VIS coupled with fuel queue at NNPC.,Negative,heavy traffic,"['Grammar School', 'VIS', 'NNPC']"
+90,2023-02-09 18:06:49+00:00,Movement inward Ikeja Along and Ajayi Farm is also very busy due to commercial buses activities coupled with the narrowed path at Ajayi Farm.,Positive,heavy traffic,"['Ikeja', 'Ajayi Farm.']"
+91,2023-02-09 18:09:45+00:00,The return journey back to Cele inward Ago roundabout is also busy. ,Positive,heavy traffic,[]
+92,2023-02-09 18:09:45+00:00,Movement inward Pako/Chemist is also busy due to evening rush.,Negative,heavy traffic,['Pako/Chemist']
+93,2023-02-09 18:09:45+00:00,"Vehicular movement from Oke Afa, Pako, Kogberegbe, Ishaga, College, Aye, Limca inward Laspotech down to Daleko is busy for now due to evening rush.",Negative,heavy traffic,"['Oke Afa', 'Pako', 'Kogberegbe', 'Ishaga']"
+95,2023-02-10 07:24:50+00:00,"A truck has broken down with spring related problem at Kola, inwards Alakuko.",Negative,breakdown,['Kola']
+96,2023-02-10 08:36:05+00:00,Report of a lone accident involving a Toyota Hilux at obalende bridge inward ilubirin with no casualty involved.,Neutral,accident,['obalende bridge']
+97,2023-02-10 08:08:40+00:00,Movement from sabo roundabout to connect Itamaga both inward and outward are good to go.,Positive,free flow,['sabo roundabout']
+99,2023-02-10 08:36:05+00:00,Report of a lone accident involving a Toyota Hilux at obalende bridge inward ilubirin with no casualty involved. ,Neutral,accident,['obalende bridge']
+100,2023-02-10 08:36:05+00:00,Slow movement descending Third Mainland Bridge toward Flag Staff House now due,Negative,heavy traffic,['Third Mainland Bridge']
+101,2023-02-10 08:45:22+00:00,"Odunlami, Igbosere, TBS avenue and other linking roads to connect desire destination are still good to go as reported earlier.",Positive,free flow,"['Odunlami', 'Igbosere']"
+102,2023-02-10 14:20:53+00:00,"Command Ekoro is good. Agbelekale is good. Ile-iwe, Command, Ikanla Oju odo, Adefemi, Church is good",Positive,free flow,"['Command Ekoro', 'Ile-iwe', 'Ikanla Oju odo']"
+103,2023-02-10 15:45:05+00:00,Movement from Aye inward Aswani market junction is good both inward and outward.,Positive,free flow,['Aye']
+104,2023-02-10 15:45:05+00:00,Toward Asa afariogun junction is slightly busy but moving due to influx and alternation at the intersection. Connecting 7&amp;8 is slow due to alternation.,Positive,heavy traffic,['7&amp;8']
+105,2023-02-10 15:45:08+00:00,Connecting Jesus House is a good movement aside traffic lights alternation.,Positive,free flow,['Jesus House']
+106,2023-02-10 16:22:03+00:00,From Randuk to Jakande Gate is moving slowly due to high influx.,Positive,heavy traffic,['Randuk']
+107,2023-02-10 16:27:35+00:00,Alagba approaching Iyana ipaja round about is slow.,Negative,heavy traffic,['Alagba']
+108,2023-02-10 16:27:37+00:00,Moshalasi approaching Egbeda intersection and moving towards Isheri round about is slow.,Negative,heavy traffic,"['Moshalasi', 'Isheri round about']"
+109,2023-02-10 16:50:49+00:00,"Movement within the entire stretch of Obafemi Awolowo Way, Billings Way, Kudirat Abiola Way, Opebi Road, Ikosi Road, Aromire Road, Toyin Street, Sheraton Link and Opebi-Welfare Link Bridges is good.",Positive,free flow,"['Billings Way', 'Kudirat Abiola Way', 'Opebi Road', 'Ikosi Road', 'Sheraton Link', 'Opebi-Welfare Link Bridges']"
+110,2023-02-10 17:34:38+00:00,Jesus house to Eleganza enroute Canoe to NNPC road is busy ,Positive,heavy traffic,"['Jesus house', 'Canoe']"
+111,2023-02-10 17:34:38+00:00,"Vehicular movement from 7&amp;8 inward Osolo-way to Asa-afariogun intersection inward Aswani is slow due to alternation at Afariogun intersection,",Positive,heavy traffic,"['7&amp;8', 'Osolo-way', 'Asa-afariogun', 'Aswani', 'Afariogun intersection']"
+112,2023-02-10 17:45:42+00:00,Approaching Allen intersection from Balogun is also busy due to backlog from Allen intersection.,Positive,heavy traffic,['Allen intersection.']
+113,2023-02-10 17:45:42+00:00,"Movement from Allen inward Aromire, Akora villa, Hacco on Adeniyi Jones is busy",Positive,heavy traffic,['Allen']
+114,2023-02-10 17:45:44+00:00,First gate and Wemco junction is busy at the moment,Negative,heavy traffic,['Wemco junction']
+115,2023-02-10 19:46:04+00:00,Still busy but moving steadily from Catholic Church connecting Charity,Positive,heavy traffic,['Catholic Church']
+116,2023-02-10 20:43:13+00:00,"Jungle to Fagba bstop is free, Fagba bus stop to Fagba intersection is busy",Positive,heavy traffic,"['Jungle', 'Fagba', 'Fagba bus stop', 'Fagba intersection']"
+117,2023-02-11 06:30:05+00:00,A broken down flat body truck loaded with iron rod at Jakande inward Lekki occupying 80% of the road thereby hindering the flow of traffic but effort is on for its evacuation,Negative,breakdown,['Jakande']
+118,2023-02-11 06:05:20+00:00,Another broken down loaded truck with papers at Kola inw Toll gate as well having spring related issue,Negative,breakdown,"['Another', 'Kola']"
+119,2023-02-11 05:58:38+00:00,A broken down loaded 6 tyres truck at Kola inw Toll Gate.,Negative,breakdown,['Kola']
+120,2023-02-11 06:41:06+00:00,"Isheri roundabout inward  Egbeda to moshalasi Roundabout and the return journey is very gtg,",Positive,free flow,['Isheri roundabout']
+121,2023-02-11 06:41:06+00:00,Alagba and Express is gtg.  Inward Moshalasi from there is fast moving traffic,Positive,free flow,['Alagba']
+122,2023-02-11 06:53:26+00:00,An overnight broken down loaded flat body trailer with iron at Jakande roundabout inward Chisco with mechanical problem occupying about 70 percent of the road,Negative,breakdown,['Jakande roundabout']
+123,2023-02-11 06:58:40+00:00,Iyana-oworo inward Olopomeji and Gbagada Express Way is good to go. Charly Boy inward Gbagada to Car Wash and Oworoshoki is good to go.,Positive,free flow,"['Iyana-oworo', 'Olopomeji', 'Gbagada Express Way', 'Charly Boy', 'Gbagada']"
+124,2023-02-11 06:58:41+00:00,Pako inward Unilag Gate is Appreciable and good to go towards Abule Oja,Positive,free flow,['Pako']
+125,2023-02-11 13:45:30+00:00,"There's a  brokendown 40ft containerized truck on Carter bridge inward Eyineyo, Idumota.",Negative,breakdown,[]
+126,2023-02-11 15:04:35+00:00,Traffic inward and outward of third mainland bridge is very free. Iyana Oworo towards Ogudu and Alapere is also a rapid flow,Positive,free flow,"['third mainland bridge', 'Iyana Oworo', 'Ogudu']"
+127,2023-02-11 15:28:50+00:00,Command/Ekoro and its adjoining corridor is having a steady movement but Ekoro is good to go inward Agbelekale is good.,Positive,free flow,"['Command/Ekoro', 'Ekoro']"
+128,2023-02-11 15:36:36+00:00,Meanwhile we also have it slow approaching Ojota bus stop due to the activities of public buses and also pedestrians crossings.  ,Positive,heavy traffic,[]
+129,2023-02-11 19:21:53+00:00,"A car has broken down with rear tyre problem, just in front of Stanbic bank, inwards Shasha.",Negative,breakdown,['Stanbic bank']
+130,2023-02-11 19:57:47+00:00,"Cement inward Dopemu underneath the bridge to Pako, Goye, iyana Ipaja is good",Positive,free flow,"['Cement', 'Pako']"
+131,2023-02-11 19:58:28+00:00,"Return journey from Egbeda to connect Lagos Abeokuta express way is good also, like ise Swipha, Agbotikuyo, Oniwaya axis.",Positive,free flow,['Lagos Abeokuta']
+132,2023-02-12 06:23:42+00:00,A broken down PSP Truck at Bakery B/stop in front of UBA bank inward Egbeda having a Clutch problem.,Negative,breakdown,[]
+133,2023-02-12 06:28:14+00:00,In and out of Lagos Ibadan expressway from Otedola to Kara and the return journey from Kara back to Otedola is good,Positive,free flow,"['Lagos Ibadan', 'Otedola', 'Kara', 'Kara']"
+134,2023-02-12 06:28:14+00:00,"Omole inward Ogba, Odoeran is also good aside alternation",Positive,free flow,"['Omole', 'Ogba']"
+135,2023-02-12 06:28:14+00:00,Return journey from Odoeran back to River Valley is good aside alternation. ,Positive,free flow,"['Odoeran', 'River Valley']"
+136,2023-02-12 07:50:20+00:00,A lone accident of a loaded Truck with ply-woods ascending the Tsunami bridge.,Negative,accident,[]
+137,2023-02-12 08:08:31+00:00,Pako to Unilag Gate and Abule Oja is good. Same applies to the return journey.,Positive,free flow,['Pako']
+138,2023-02-12 09:30:23+00:00,Traffic in and out of Awolowo Way is gd; Traffic in and out of Aromire is gd; Traffic in and out of Allen Avenue is gd; Traffic in and out of Opebi is gd; Traffic in and out of Kudirat Abiola is gd.,Positive,free flow,"['Awolowo Way', 'Aromire', 'Allen Avenue', 'Opebi', 'Kudirat Abiola']"
+139,2023-02-12 09:30:27+00:00,Traffic in and out of Toyin Street is gd; Traffic in and out of Opebi link Rd is gd,Positive,free flow,"['Toyin Street', 'Opebi link Rd']"
+140,2023-02-12 09:34:21+00:00,"Vehicular movement on oba Ogunnusi is good aside alternation delay at VIS and Omole. Excellence,Ogba,Odo eran is also good.    ",Positive,free flow,"['VIS', 'Excellence', 'Ogba']"
+141,2023-02-13 05:17:44+00:00,The NNPC intersection is accommodating and Mubostic Junction to Canoe area is good,Positive,free flow,['Mubostic Junction']
+142,2023-02-13 05:28:22+00:00,Traffic from Iyana Dopemu inward Cement is good to go.,Positive,free flow,['Iyana Dopemu']
+143,2023-02-13 05:54:14+00:00,Jonathan Coker road is also a slow moving traffic inward Fagba,Negative,heavy traffic,['Jonathan Coker road']
+144,2023-02-13 06:39:05+00:00,Traffic is slow after Alapere towards Ogudu down to Iyana Oworo.,Negative,heavy traffic,"['Alapere', 'Ogudu']"
+145,2023-02-13 08:16:14+00:00,Slow and steady movement on third mainland bridge inward Adeniji down to simpson under bridge,Positive,heavy traffic,['third mainland bridge']
+146,2023-02-13 08:16:15+00:00,Obalende  bridge inward Onikan bridge to connect CMS down to uba is good to go.,Positive,free flow,['Obalende']
+147,2023-02-13 13:19:30+00:00,Slow movement from Ikotun intersection inward Oju-Odo due to commercial activities.,Positive,heavy traffic,['Ikotun intersection']
+148,2023-02-13 13:19:31+00:00,NNPC inward Gate down to Pako is good. Return journey from Pako down to Synagogue is good. ,Positive,free flow,"['NNPC', 'Gate']"
+149,2023-02-13 17:02:35+00:00,A lone accident of a Trailer with a brake failure which rammed into a gutter at Asa-afariogun intersection.,Positive,accident,['Asa-afariogun']
+150,2023-02-13 17:07:24+00:00,Benson inward Ikorordu Roundabout connecting Ojubode and Ladega is busy,Positive,heavy traffic,"['Benson', 'Ikorordu Roundabout']"
+151,2023-02-13 17:11:50+00:00,"Busy movement from Marwa towards Ikate, Chisco,",Positive,heavy traffic,"['Marwa', 'Ikate']"
+152,2023-02-13 17:17:23+00:00,Return journey from Ajegunle down to Abule Egba is good,Positive,free flow,[]
+153,2023-02-13 18:41:05+00:00,Adekunle Inw Panti is slow due to traffic light alternation coupled with high influx,Positive,heavy traffic,['Adekunle Inw Panti']
+154,2023-02-13 18:41:06+00:00,"University junction, Yabatech, WAEC is all looking good",Positive,free flow,"['University junction', 'Yabatech']"
+156,2023-02-13 18:54:03+00:00,The stretch of Abule egba-Ajegunle corridor in and out is good,Positive,free flow,[]
+157,2023-02-13 19:03:14+00:00,"Capitol road connecting National, Mangoro Ashade is good, same as the return journey",Positive,free flow,"['Capitol road', 'National']"
+158,2023-02-13 19:03:17+00:00,"Odo Eran inward Chemiron junction, Metal box road connecting Acme is good",Positive,free flow,"['Odo Eran', 'Chemiron junction']"
+159,2023-02-13 20:45:18+00:00,Good movement on College road in and out Pen cinema Ubridge to Fagba intersection is good in and out,Positive,free flow,['College road']
+160,2023-02-14 05:56:13+00:00,Good  movement along  Marina road from UBA toward Cathedral at this hour,Positive,free flow,['UBA']
+161,2023-02-14 05:58:37+00:00,Broad Street link Apongbon towards olowogbowo is very good,Positive,free flow,['Broad Street link Apongbon']
+162,2023-02-14 08:48:51+00:00,A broken down containerised vehicle with battery problem along  Marina road by Davies junction,Negative,breakdown,[]
+163,2023-02-14 11:09:51+00:00,Movement from Otto Wharf inward  UBA is good to go,Positive,free flow,['Otto Wharf']
+164,2023-02-14 14:28:54+00:00,Fagba towards Agege is good,Positive,free flow,"['Fagba', 'Agege']"
+165,2023-02-14 16:19:18+00:00,Traffic moves slowly from Iyana Oworo down to Ogudu and also to Alapere filling station due to fuel queue,Negative,heavy traffic,['Iyana Oworo']
+166,2023-02-14 17:05:10+00:00,From Sabo Roundabout to Onimalu enroute Alaka down to Itamaga Intersection is good to go likewise the return journey. ,Positive,free flow,"['Sabo Roundabout', 'Onimalu', 'Alaka']"
+167,2023-02-14 17:08:25+00:00,Traffic is busy now at kudirat abiola way from Ojota to welfare and Ikosi junction. ,Positive,heavy traffic,"['kudirat abiola way', 'Ojota', 'welfare']"
+168,2023-02-14 19:13:17+00:00,"A loaded truck has broken down with mechanical fault on Iyanaipaja-Ayobo road, after Kokumo bus stop, inward Moshalasi r/bout",Negative,breakdown,['Iyanaipaja-Ayobo road']
+169,2023-02-15 06:05:13+00:00,An accident involving a container laden truck and a Tanker has occurred on the Alaka bridge inw Eko bridge,Negative,accident,['Alaka bridge']
+170,2023-02-15 06:35:16+00:00,"A truck has broken down at Eleko jnctn inw Epe, taking up a lane.",Negative,breakdown,"['Eleko jnctn', 'Epe']"
+171,2023-02-15 06:46:46+00:00,"Traffic is gd from Sango inw Ajegunle, Alakuko, Moshalashi, Kola, Casso, Adura, Salolo, Meiran, Ijaiye, Obadeyi thru Ahmadiya and Abule Egba via the bridge and under the bridge.",Positive,free flow,"['Sango', 'Ajegunle', 'Alakuko', 'Moshalashi,', 'Kola', 'Casso,']"
+172,2023-02-15 06:46:48+00:00,"Traffic is still gd inw Katangua, Super, Ile-Epo, Pleasure, Danco and Iyana Ipaja.",Positive,free flow,"['Katangua', 'Ile-Epo']"
+173,2023-02-15 06:46:48+00:00,"Moving on thru Araromi, Adealu, Paki and Iyana Dopemu inw Dopemu, Cement, Mangoro, Ile Zik and Ikeja Along is gd.",Positive,free flow,"['Araromi', 'Adealu', 'Ile Zik']"
+174,2023-02-15 07:24:24+00:00,"A container laden trailer has broken down at Conoil U-turn inw Igando Phase 1,",Positive,breakdown,"['Conoil', 'Igando Phase 1']"
+175,2023-02-15 07:30:44+00:00,"A loaded tanker has broken down at Abule Tailor inw Ijaiye, taking up a lane. ",Negative,breakdown,['Abule Tailor']
+176,2023-02-15 07:42:31+00:00,"Traffic gd from Ajuwon Rd inw Elliot, Rogo Jnctn approaching Ishaga R/Abt.",Positive,free flow,"['Ajuwon Rd', 'Elliot', 'Rogo', 'Ishaga']"
+177,2023-02-15 08:11:37+00:00,A multiple accident has occurred at Ijaiye inw Abule Egba due to break failure.,Positive,breakdown,['Ijaiye']
+178,2023-02-15 10:57:33+00:00,"A truck has broken down just by Mosley B/Stop on Gerard Rd inw Gerard R/Abt, taking up a lane thereby slowing down traffic",Negative,heavy traffic,['Mosley B/Stop']
+179,2023-02-15 11:35:53+00:00,"The earlier reported broken down truck on Gerard road inw the Gerard R/Abt has been towed off the spot,",Negative,breakdown,[]
+180,2023-02-15 11:37:12+00:00,The earlier reported broken down truck at Ebute Police post intersection has been towed off the road,Negative,breakdown,['Ebute Police post']
+181,2023-02-15 16:58:31+00:00,Ogba is slightly busy due to bstop activities and influx into Thomas Salako,Positive,heavy traffic,['Ogba']
+182,2023-02-15 17:03:50+00:00,"Eleganza down to Etisalat, Mr Biggs to connect Wharf gate is good.  ",Positive,free flow,"['Eleganza', 'Etisalat', 'Mr Biggs', 'Wharf gate']"
+183,2023-02-16 05:55:38+00:00,Early morning rush out of Apapa through the Marine bridge to connect Iganmu and Ijora is also good to go.  ,Positive,free flow,['Apapa']
+184,2023-02-16 06:00:34+00:00,"For now we are still enjoying free flow of traffic inward and outward of Carter bridge , while traffic from underneath ldumota bridge inward Eyin Eyo connecting Balogun is also street still looking good at this hour.",Positive,free flow,"['For', 'Carter bridge', 'ldumota bridge', 'Eyin Eyo']"
+185,2023-02-16 06:00:35+00:00,Tinubu connecting Nnamdi Azikiwe street enroute Tom Jones intersection is equally good to go for now,Positive,free flow,['Tinubu']
+186,2023-02-16 06:05:19+00:00,The return journey from Marwa back to Ajah is also good to go.,Positive,free flow,['Marwa']
+187,2023-02-16 08:31:53+00:00,Evacuation is presently ongoing at the earlier reported accident scene at Igboefon,Positive,breakdown,['Evacuation']
+188,2023-02-16 09:18:38+00:00,Movement from Odo Ogun down to Mile 12 is good to go.,Positive,free flow,"['Odo Ogun', 'Mile 12']"
+189,2023-02-16 09:18:38+00:00,Ascending and descending Mile 12 inward kosofe down to Iyana School is good to go.,Positive,free flow,['Mile 12']
